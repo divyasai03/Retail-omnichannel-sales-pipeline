@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,quantity,unit_price,total_amount,city,order_date,updated_at,channel,status,rejection_reason
+7005,,P202,2,850,1700,Mumbai,2026-11-04,2026-11-04 12:00:00,Mobile App,Completed,Missing required values; Unknown customer ID
+7006,C104,P201,-1,1200,-1200,Pune,2026-11-05,2026-11-05 13:30:00,Store,Cancelled,Invalid numeric values

@@ -1,0 +1,8 @@
+﻿customer_id,customer_name,email,city,updated_at
+C101,Aarav Sharma,aarav@example.com,Hyderabad,2026-10-01 09:00:00
+C102,Diya Reddy,diya@example.com,Bangalore,2026-10-01 09:15:00
+C103,Arjun Kumar,arjun@example.com,Chennai,2026-10-02 10:00:00
+C104,Ananya Rao,ananya@example.com,Pune,2026-10-02 11:00:00
+C105,Rohan Mehta,rohan@example.com,Delhi,2026-10-03 12:00:00
+C106,Meera Nair,meera@example.com,Hyderabad,2026-10-03 13:00:00
+C101,Aarav Sharma,aarav@example.com,Secunderabad,2026-11-07 10:00:00

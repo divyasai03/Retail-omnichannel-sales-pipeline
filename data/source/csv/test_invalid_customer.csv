@@ -1,0 +1,2 @@
+order_id,customer_id,product_id,quantity,unit_price,total_amount,city,order_date,updated_at,channel,status
+9001,C999,P201,2,1200,2400,Hyderabad,2026-11-07,2026-11-07 18:00:00,Web,Completed

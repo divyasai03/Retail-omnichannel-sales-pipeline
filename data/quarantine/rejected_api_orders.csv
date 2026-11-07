@@ -1,0 +1,13 @@
+order_id,customer_id,product_id,product_name,quantity,unit_price,total_amount,discount_percentage,discounted_total,cart_total,cart_discounted_total,total_products,total_quantity,rejection_reason
+7,7,56,Electric Stove,1,49.99,49.99,14.04,42.97,1229.86,1103.65,6,14,Duplicate order-item record
+38,38,110,Selfie Lamp with iPhone,2,14.99,29.98,19.4,24.16,409.95,334.61,3,5,Duplicate order-item record
+69,69,122,iPhone 6,5,299.99,1499.95,6.69,1399.6,7185.87,6560.55,5,13,Duplicate order-item record
+89,89,150,Metal Baseball Bat,5,29.99,149.95,19.51,120.69,2458.83,2111.01,6,17,Duplicate order-item record
+95,95,133,Samsung Galaxy S10,4,699.99,2799.96,5.59,2643.44,154490.76,129783.31,6,24,Duplicate order-item record
+132,132,51,Boxed Blender,4,39.99,159.96,7.26,148.35,13411.81,11523.23,6,19,Duplicate order-item record
+133,133,176,Women Handbag Black,4,59.99,239.96,11.63,212.05,9559.87,8818.7,5,13,Duplicate order-item record
+135,135,188,Pampi Shoes,4,29.99,119.96,14.14,103.0,889.87,751.73,4,13,Duplicate order-item record
+151,151,2,Eyeshadow Palette with Mirror,1,19.99,19.99,18.19,16.35,247.85,222.39,5,15,Duplicate order-item record
+156,156,67,Mug Tree Stand,5,15.99,79.95,9.25,72.55,2643.86,2422.79,3,14,Duplicate order-item record
+200,200,187,Golden Shoes Woman,5,49.99,249.95000000000002,13.93,215.13,22694.77,21783.54,6,23,Duplicate order-item record
+204,204,190,IWC Ingenieur Automatic Steel,1,4999.99,4999.99,9.45,4527.49,25591.84,23182.99,6,16,Duplicate order-item record

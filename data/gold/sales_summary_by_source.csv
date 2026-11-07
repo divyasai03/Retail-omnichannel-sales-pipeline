@@ -1,0 +1,4 @@
+source_system,sales_records,total_quantity,recorded_amount
+CSV,6,10,9500.0
+POSTGRESQL,5,7,83050.0
+REST_API,788,2376,3823879.04

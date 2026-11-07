@@ -1,0 +1,1 @@
+order_id,customer_id,product_id,quantity,unit_price,total_amount,city,order_date,updated_at,channel,status,rejection_reason

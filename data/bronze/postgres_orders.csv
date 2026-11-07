@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,quantity,unit_price,total_amount,city,order_date,updated_at,channel,status
+8001,C201,P301,1,55000.0,55000.0,Hyderabad,2026-11-01,2026-11-01 10:00:00,Web,Completed
+8002,C202,P302,2,850.0,1700.0,Bangalore,2026-11-02,2026-11-02 11:00:00,Mobile App,Completed
+8003,C203,P303,1,1500.0,1500.0,Chennai,2026-11-03,2026-11-03 12:00:00,Store,Shipped
+8004,C201,P304,2,12000.0,24000.0,Hyderabad,2026-10-28,2026-11-07 09:00:00,Web,Shipped
+8005,C204,P302,1,850.0,850.0,Mumbai,2026-11-05,2026-11-05 13:00:00,Mobile App,Processing

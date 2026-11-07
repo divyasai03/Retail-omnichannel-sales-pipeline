@@ -1,0 +1,200 @@
+source_system,product_id,product_name,total_quantity,recorded_amount
+REST_API,170,Durango SXT RWD,19,702999.81
+REST_API,169,Dodge Hornet GT Plus,17,424999.83
+REST_API,115,MotoGP CI.H1,22,329999.78
+REST_API,167,300 Touring,9,260999.91
+REST_API,171,Pacifica Touring,8,255999.92
+REST_API,98,Rolex Submariner Watch,17,237999.83
+REST_API,168,Charger SXT RWD,7,230999.93
+REST_API,97,Rolex Datejust,14,153999.86
+REST_API,192,Rolex Datejust Women,14,153999.86
+REST_API,117,Sportbike Motorcycle,20,149999.8
+REST_API,96,Rolex Cellini Moonphase,10,129999.9
+REST_API,95,Rolex Cellini Date Black Dial,13,116999.87
+REST_API,113,Generic Motorcycle,28,111999.72
+REST_API,191,Rolex Cellini Moonphase,5,79999.95
+REST_API,12,Annibale Colombo Sofa,23,57499.77
+POSTGRESQL,P301,Laptop,1,55000.0
+REST_API,114,Kawasaki Z800,6,53999.94
+REST_API,78,Apple MacBook Pro 14 Inch Space Grey,21,41999.79
+REST_API,190,IWC Ingenieur Automatic Steel,6,29999.94
+POSTGRESQL,P304,Monitor,2,24000.0
+REST_API,116,Scooter Motorcycle,8,23999.92
+REST_API,133,Samsung Galaxy S10,27,18899.73
+REST_API,80,Huawei Matebook X Pro,11,15399.89
+REST_API,123,iPhone 13 Pro,13,14299.87
+REST_API,193,Watch Gold for Women,17,13599.83
+REST_API,79,Asus Zenbook Pro Dual Screen Laptop,7,12599.93
+REST_API,82,New DELL XPS 13 9300 Laptop,8,11999.92
+REST_API,14,Knoll Saarinen Executive Conference Chair,22,10999.78
+REST_API,136,Vivo X21,20,9999.8
+REST_API,81,Lenovo Yoga 920,9,9899.91
+REST_API,11,Annibale Colombo Bed,5,9499.95
+REST_API,112,TV Studio Camera Pedestal,18,8999.82
+REST_API,132,Samsung Galaxy S8,17,8499.83
+REST_API,161,Samsung Galaxy Tab White,23,8049.77
+REST_API,159,iPad Mini 2021 Starlight,14,6999.86
+REST_API,129,Realme X,20,5999.8
+REST_API,106,Apple Watch Series 4 Gold,17,5949.83
+REST_API,15,Wooden Bathroom Sink With Mirror,7,5599.93
+REST_API,130,Realme XT,14,4899.86
+REST_API,13,Bedside Table African Cherry,16,4799.84
+REST_API,94,Longines Master Collection,3,4499.97
+REST_API,101,Apple AirPods Max Silver,8,4399.92
+REST_API,174,Prada Women Bag,6,3599.94
+REST_API,122,iPhone 6,12,3599.88
+REST_API,127,Oppo K1,12,3599.88
+REST_API,100,Apple Airpods,27,3509.73
+REST_API,126,Oppo F19 Pro Plus,8,3199.92
+REST_API,88,Nike Air Jordan 1 Red And Black,19,2849.81
+POSTGRESQL,P302,Mouse,3,2550.0
+CSV,P201,Laptop,2,2400.0
+CSV,P204,Monitor,1,2200.0
+REST_API,92,Sports Sneakers Off White Red,20,2199.8
+REST_API,7,Chanel Coco Noir Eau De,16,2079.84
+REST_API,181,Marni Red & Black Suit,11,1979.89
+REST_API,90,Puma Future Rider Trainers,22,1979.78
+REST_API,160,Samsung Galaxy Tab S8 Plus Grey,3,1799.97
+REST_API,99,Amazon Echo Plus,18,1799.82
+REST_API,8,Dior J'adore,19,1709.81
+REST_API,128,Realme C35,11,1649.89
+POSTGRESQL,P303,Keyboard,1,1500.0
+CSV,P205,Headphones,1,1500.0
+REST_API,134,Vivo S1,6,1499.94
+REST_API,43,Decoration Swing,24,1439.76
+CSV,P203,Keyboard,3,1350.0
+REST_API,93,Brown Leather Belt Watch,15,1349.85
+REST_API,91,Sports Sneakers Off White & Red,11,1319.89
+REST_API,105,Apple MagSafe Battery Pack,13,1299.87
+CSV,P206,Webcam,2,1200.0
+REST_API,176,Women Handbag Black,17,1019.83
+REST_API,121,iPhone 5s,5,999.95
+REST_API,166,Tartan Dress,25,999.75
+REST_API,177,Black Women's Gown,7,909.93
+REST_API,164,Gray Dress,26,909.74
+REST_API,135,Vivo V9,3,899.97
+REST_API,103,Apple HomePod Mini Cosmic Grey,9,899.91
+REST_API,180,Dress Pea,18,899.82
+REST_API,102,Apple Airpower Wireless Charger,11,879.89
+REST_API,141,Basketball Rim,22,879.78
+CSV,P202,Mouse,1,850.0
+REST_API,187,Golden Shoes Woman,17,849.83
+REST_API,66,Microwave Oven,9,809.91
+REST_API,179,Corset With Black Skirt,10,799.9
+REST_API,152,Tennis Racket,16,799.84
+REST_API,149,Iron Golf,15,749.85
+REST_API,175,White Faux Leather Backpack,18,719.82
+REST_API,9,Dolce Shine Eau de,10,699.9
+REST_API,156,Green and Black Glasses,20,699.8
+REST_API,172,Blue Women's Handbag,13,649.87
+REST_API,108,iPhone 12 Silicone Case with MagSafe Plum,21,629.79
+REST_API,6,Calvin Klein CK One,12,599.88
+REST_API,107,Beats Flex Wireless Earphones,12,599.88
+REST_API,52,Carbon Steel Wok,20,599.8
+REST_API,87,Men Check Shirt,21,587.79
+REST_API,10,Gucci Bloom Eau de,7,559.93
+REST_API,51,Boxed Blender,14,559.86
+REST_API,183,Green Oval Earring,21,524.79
+REST_API,173,Heshe Women's Leather Bag,4,519.96
+REST_API,162,Blue Frock,16,479.84
+REST_API,68,Pan,19,474.81
+REST_API,47,Table Lamp,9,449.91
+REST_API,45,House Showpiece Plant,11,439.89
+REST_API,61,Hand Blender,12,419.88
+REST_API,46,Plant Pot,27,404.73
+REST_API,83,Blue & Black Check Shirt,13,389.87
+REST_API,71,Silver Pot With Glass Cap,9,359.91
+REST_API,18,Cat Food,37,332.63
+REST_API,36,Protein Powder,16,319.84
+REST_API,3,Powder Canister,21,314.79
+REST_API,44,Family Tree Photo Frame,10,299.9
+REST_API,24,Fish Steak,20,299.8
+REST_API,53,Chopping Board,23,298.77
+REST_API,157,Party Glasses,14,279.86
+REST_API,155,Classic Sun Glasses,11,274.89
+REST_API,178,Corset Leather With Skirt,3,269.97
+REST_API,194,Women's Wrist Watch,2,259.98
+REST_API,184,Tropical Earring,13,259.87
+REST_API,185,Black & Brown Slipper,13,259.87
+REST_API,86,Man Short Sleeve Shirt,13,259.87
+REST_API,56,Electric Stove,5,249.95
+REST_API,120,Vaseline Men Body and Face Lotion,25,249.75
+REST_API,89,Nike Baseball Cleats,3,239.97
+REST_API,150,Metal Baseball Bat,8,239.92
+REST_API,182,Green Crystal Earring,8,239.92
+REST_API,75,Tray,14,237.86
+REST_API,65,Lunch Box,18,233.82
+REST_API,144,Cricket Helmet,5,224.95
+REST_API,119,Olay Ultra Moisture Shea Butter Body Wash,17,220.83
+REST_API,60,Grater Black,20,219.8
+REST_API,188,Pampi Shoes,7,209.93
+REST_API,110,Selfie Lamp with iPhone,14,209.86
+REST_API,111,Selfie Stick Monopod,16,207.84
+REST_API,142,Cricket Ball,16,207.84
+REST_API,2,Eyeshadow Palette with Mirror,10,199.9
+REST_API,73,Spice Rack,10,199.9
+REST_API,163,Girl Summer Dress,10,199.9
+REST_API,154,Black Sun Glasses,6,179.94
+REST_API,1,Essence Mascara Lash Princess,18,179.82
+REST_API,67,Mug Tree Stand,11,175.89
+REST_API,85,Man Plaid Shirt,5,174.95
+REST_API,140,Basketball,11,164.89
+REST_API,63,Kitchen Sieve,19,151.81
+REST_API,4,Red Lipstick,11,142.89
+REST_API,104,Apple iPhone Charger,7,139.93
+REST_API,158,Sunglasses,6,137.94
+REST_API,28,Ice Cream,25,137.25
+REST_API,38,Rice,22,131.78
+REST_API,84,Gigabyte Aorus Men Tshirt,5,124.95
+REST_API,139,Baseball Glove,5,124.95
+REST_API,153,Volleyball,10,119.9
+REST_API,146,Feather Shuttlecock,19,113.81
+REST_API,19,Chicken Meat,11,109.89
+REST_API,148,Golf Ball,11,109.89
+REST_API,72,Slotted Turner,12,107.88
+REST_API,17,Beef Steak,8,103.92
+REST_API,137,American Football,5,99.95
+REST_API,109,Monopod,5,99.95
+REST_API,55,Egg Slicer,13,90.87
+REST_API,50,Black Whisk,9,89.91
+REST_API,138,Baseball Ball,9,80.91
+REST_API,5,Red Nail Polish,9,80.91
+REST_API,57,Fine Mesh Strainer,8,79.92
+REST_API,77,Yellow Peeler,13,77.87
+REST_API,27,Honey Jar,11,76.89
+REST_API,147,Football,4,71.96
+REST_API,54,Citrus Squeezer Yellow,8,71.92
+REST_API,189,Red Shoes,2,69.98
+REST_API,59,Glass,14,69.86
+REST_API,22,Dog Food,6,65.94
+REST_API,74,Spoon,13,64.87
+REST_API,48,Bamboo Spatula,8,63.92
+REST_API,70,Red Tongs,9,62.91
+REST_API,69,Plate,15,59.85
+REST_API,32,Milk,16,55.84
+REST_API,64,Knife,3,44.97
+REST_API,33,Mulberry,9,44.91
+REST_API,35,Potatoes,19,43.51
+REST_API,151,Tennis Ball,6,41.94
+REST_API,49,Black Aluminium Cup,7,41.93
+REST_API,20,Cooking Oil,8,39.92
+REST_API,76,Wooden Rolling Pin,3,35.97
+REST_API,118,Attitude Super Leaves Hand Soap,4,35.96
+REST_API,58,Fork,9,35.91
+REST_API,21,Cucumber,23,34.27
+REST_API,34,Nescafe Coffee,4,31.96
+REST_API,145,Cricket Wicket,1,29.99
+REST_API,143,Cricket Bat,1,29.99
+REST_API,30,Kiwi,12,29.88
+REST_API,37,Red Onions,15,29.85
+REST_API,41,Tissue Paper Box,11,27.39
+REST_API,23,Eggs,9,26.91
+REST_API,39,Soft Drinks,13,25.87
+REST_API,62,Ice Cube Tray,4,23.96
+REST_API,16,Apple,12,23.88
+REST_API,29,Juice,5,19.95
+REST_API,42,Water,15,14.85
+REST_API,40,Strawberry,3,11.97
+REST_API,26,Green Chili Pepper,12,11.88
+REST_API,25,Green Bell Pepper,8,10.32
+REST_API,31,Lemon,4,3.16

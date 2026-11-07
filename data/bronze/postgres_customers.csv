@@ -1,0 +1,5 @@
+customer_id,customer_name,email,city,updated_at
+C201,Kiran Kumar,kiran@example.com,Hyderabad,2026-10-01 09:00:00
+C202,Sneha Reddy,sneha@example.com,Bangalore,2026-10-02 10:00:00
+C203,Rahul Sharma,rahul@example.com,Chennai,2026-10-03 11:00:00
+C204,Pooja Nair,pooja@example.com,Mumbai,2026-10-04 12:00:00

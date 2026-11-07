@@ -1,0 +1,5 @@
+product_id,product_name,category,brand,unit_price,updated_at
+P301,Laptop,Electronics,Dell,55000.0,2026-10-01 08:00:00
+P302,Mouse,Accessories,Logitech,850.0,2026-10-01 08:30:00
+P303,Keyboard,Accessories,HP,1500.0,2026-10-02 09:00:00
+P304,Monitor,Electronics,Samsung,12000.0,2026-10-03 10:00:00

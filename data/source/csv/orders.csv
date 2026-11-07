@@ -1,0 +1,10 @@
+﻿order_id,customer_id,product_id,quantity,unit_price,total_amount,city,order_date,updated_at,channel,status
+7001,C101,P201,2,1200,2400,Hyderabad,2026-11-01,2026-11-01 10:30:00,Web,Completed
+7002,C102,P202,1,850,850,Bangalore,2026-11-02,2026-11-02 11:15:00,Mobile App,Completed
+7003,C103,P203,3,450,1350,Chennai,2026-11-03,2026-11-03 14:20:00,Store,Completed
+7004,C101,P204,1,2200,2200,Hyderabad,2026-10-28,2026-11-07 09:00:00,Web,Shipped
+7005,,P202,2,850,1700,Mumbai,2026-11-04,2026-11-04 12:00:00,Mobile App,Completed
+7006,C104,P201,-1,1200,-1200,Pune,2026-11-05,2026-11-05 13:30:00,Store,Cancelled
+7007,C105,P205,1,1500,1500,Delhi,2026-11-06,2026-11-06 15:00:00,Web,Completed
+7003,C103,P203,3,450,1350,Chennai,2026-11-03,2026-11-07 16:00:00,Store,Completed
+7008,C106,P206,2,600,1200,Hyderabad,2026-11-07,2026-11-07 17:30:00,Mobile App,Processing
